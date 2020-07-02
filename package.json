@@ -1,0 +1,11 @@
+{
+  "name": "web-dev-101",
+  "version": "0.0.1",
+  "description": "an intro to web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "laurabethdotdev",
+  "license": "ISC"
+}
