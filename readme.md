@@ -6,7 +6,7 @@
 
 - You are not alone!!
   - Documentation
-    - [Mozilla Developer Network] https://developer.mozilla.org/en-US/
+    - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   - Your IDE
   - StackOverflow (& other forums)
   - Online tutorials
@@ -38,18 +38,20 @@
 
 #### HTML
 
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 - Hypertext markup language - Not actually a language!
 - Semantic HTML
 
 #### CSS
 
-[CSS Documentation] https://developer.mozilla.org/en-US/docs/Web/CSS
-Flexbox Froggy
-Grid Garden
-JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Flexbox Froggy](http://flexboxfroggy.com)
+- [Grid Garden](http://cssgridgarden.com)
+
+#### JavaScript
+
+[JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Primitive Data Types:
 String
