@@ -33,12 +33,12 @@
 
 - Happen to everyone
 - Can be very frustrating
-- Have a cause, which means...
-- They have solutions
+- Always have a cause, which means...
+- They always have **solutions**
 
 #### HTML
 
-[HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 - Hypertext markup language - Not actually a language!
 - Semantic HTML
@@ -53,26 +53,30 @@
 
 [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Primitive Data Types:
-String
-Number
-Boolean
-Variables
-Named to describe what they are
-Functions
-Named to describe what they do
-Should only do one thing
-Loops
-For
-ForEach
-While
-Conditional Logic
-Complex data types
-Objects
-SQL
-Create
-Read
-Update
-Delete
-React
-https://reactjs.org/
+- Primitive Data Types:
+  - String
+  - Number
+  - Boolean
+- Variables
+  - Named to describe what they are
+- Functions
+  - Named to describe what they do
+  - Should only do one thing
+- Loops
+  - For
+  - ForEach
+  - While
+- Conditional Logic
+- Complex data types
+- Objects
+
+#### Structured Query Language (SQL)
+
+- Create
+- Read
+- Update
+- Delete
+
+#### React
+
+[ReactJS Documentation](https://reactjs.org/)
