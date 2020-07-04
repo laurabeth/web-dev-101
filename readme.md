@@ -5,39 +5,47 @@
 ### First Things
 
 - You are not alone!!
-- Documentation
-- MDN: https://developer.mozilla.org/en-US/
-- Your IDE
-- StackOverflow (& other forums)
+  - Documentation
+    - [Mozilla Developer Network] https://developer.mozilla.org/en-US/
+  - Your IDE
+  - StackOverflow (& other forums)
+  - Online tutorials
 - Pseudocode
-- How to mail a letter
-- How to make a sandwich
+  - How to mail a letter
+  - How to make a sandwich
 - Logic puzzles
 - Number systems?
 - Version control?
 
-Getting Started
--Gmail account
--Github account
--Codesandbox
--Visual Studio Code
--Extensions
--Codecademy
--Free code camp
+#### Getting Started
 
-Writing Code
-Bugs
-Happen to everyone
-Can be very frustrating
-Have a cause, which means...
-They have solutions
-HTML
+- Gmail account
+- Github account
+- Codesandbox
+- Visual Studio Code
+- Extensions
+- Codecademy
+- Free code camp
+
+### Writing Code
+
+#### Bugs
+
+- Happen to everyone
+- Can be very frustrating
+- Have a cause, which means...
+- They have solutions
+
+#### HTML
+
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
-Hypertext markup language - Not actually a language!
-Semantic HTML
-CSS
-https://developer.mozilla.org/en-US/docs/Web/CSS
+- Hypertext markup language - Not actually a language!
+- Semantic HTML
+
+#### CSS
+
+[CSS Documentation] https://developer.mozilla.org/en-US/docs/Web/CSS
 Flexbox Froggy
 Grid Garden
 JavaScript
