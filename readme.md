@@ -1,18 +1,20 @@
-#Web Dev 101#
-##Course Outline##
+# Web Dev 101
 
-First Things
--You are not alone!!
--Documentation
--MDN: https://developer.mozilla.org/en-US/
--Your IDE
--StackOverflow (& other forums)
--Pseudocode
--How to mail a letter
--How to make a sandwich
--Logic puzzles
--Number systems?
--Version control?
+## Course Outline
+
+### First Things
+
+- You are not alone!!
+- Documentation
+- MDN: https://developer.mozilla.org/en-US/
+- Your IDE
+- StackOverflow (& other forums)
+- Pseudocode
+- How to mail a letter
+- How to make a sandwich
+- Logic puzzles
+- Number systems?
+- Version control?
 
 Getting Started
 -Gmail account
