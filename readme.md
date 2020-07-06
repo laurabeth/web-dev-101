@@ -8,7 +8,7 @@
   - Documentation
     - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   - Your IDE
-  - StackOverflow (& other forums)
+  - [StackOverflow](stackoverflow.com/) (& other forums)
   - Online tutorials
 - Pseudocode
   - How to mail a letter
