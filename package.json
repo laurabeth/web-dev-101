@@ -1,11 +1,8 @@
 {
   "name": "web-dev-101",
   "version": "0.0.1",
-  "description": "an intro to web development",
+  "description": "a dottie rose cirriculum",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
   "author": "laurabethdotdev",
   "license": "ISC"
 }

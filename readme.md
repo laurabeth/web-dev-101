@@ -1,6 +1,6 @@
 # Web Dev 101
 
-## Course Outline
+## A Dottie Rose Foundation Cirriculum
 
 ### First Things
 
@@ -36,12 +36,15 @@
 - Always have a cause, which means...
 - They always have **solutions**
 
-#### HTML
+#### Hypertext Markup Language (HTML)
 
 [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
-- Hypertext markup language - Not actually a language!
-- Semantic HTML
+- Tags, what are they and why do we use them?
+  - Create a file on your machine with the .html file type
+  - Navigate to mozilla docs
+  - Start experimenting
+- Semantic HTML, what is it and why is it important?
 
 #### CSS
 
