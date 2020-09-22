@@ -1,4 +1,4 @@
-# Web Dev 101
+# StackBytes
 
 ## A Dottie Rose Foundation Cirriculum
 
@@ -7,6 +7,7 @@
 - You are not alone!!
   - Documentation
     - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+    - [w3schools](https://www.w3schools.com/)
   - Your IDE
   - [StackOverflow](stackoverflow.com/) (& other forums)
   - Online tutorials
@@ -21,11 +22,12 @@
 
 - Gmail account
 - Github account
-- Codesandbox
+- Codesandbox.io
 - Visual Studio Code
 - Extensions
 - Codecademy
 - Free code camp
+- codepip.com
 
 ### Writing Code
 
